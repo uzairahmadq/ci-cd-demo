@@ -1,7 +1,7 @@
 pipeline {
  agent any
  tools {
- go 'gotest'
+ go 'sixth ci cd' 
  }
  environment {
  GO111MODULE='on'
